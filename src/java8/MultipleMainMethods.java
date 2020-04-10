@@ -1,5 +1,9 @@
 package java8;
-
+	
+/**
+ * @author rashid.jorvee
+ *
+ */
 public class MultipleMainMethods {
 
 	public static void main(int[] args) {

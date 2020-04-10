@@ -1,5 +1,9 @@
 package java8;
 
+/**
+ * @author rashid.jorvee
+ *
+ */
 public class StaticMember extends StaticBase{
 	static int score = 4 ;
 	public static void main(String arg[]) {

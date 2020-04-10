@@ -1,5 +1,9 @@
 package java8;
 
+/**
+ * @author rashid.jorvee
+ *
+ */
 public class StaticMem {
 	static int countryCode;
 	static void staticMethod() {

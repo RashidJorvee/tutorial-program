@@ -1,5 +1,9 @@
 package rashid.example.abc;
 
+/**
+ * @author mohammad.raza
+ *
+ */
 public class MaxMixValueOfDataTypes {
 
 	public static void main(String[] args) {
